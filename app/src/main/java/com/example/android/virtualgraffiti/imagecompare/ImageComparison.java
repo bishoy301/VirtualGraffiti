@@ -1,4 +1,4 @@
-package com.example.android.virtualgraffiti;
+package com.example.android.virtualgraffiti.imagecompare;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -51,6 +51,9 @@ import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.android.virtualgraffiti.R;
+import com.example.android.virtualgraffiti.Settings;
 
 public class ImageComparison extends Activity {
     private static final String TAG = "OCVSample::Activity";
