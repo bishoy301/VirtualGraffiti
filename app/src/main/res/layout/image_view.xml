@@ -8,7 +8,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#FFFFFF"
-        tools:context=".MainActivity" >
+        tools:context=".imagecompare.ImageComparison" >
 
         <TextView
             android:id="@+id/message"
@@ -28,6 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/checkBox"
             android:src="@drawable/img" />
+
     </RelativeLayout>
 
 </ScrollView>

@@ -16,4 +16,6 @@
     <string name="Apply">Apply Settings</string>
     <string name="min_dist">Hamming distance between matched descriptors(Lower the more similar):</string>
     <string name="min_dup">Minimum number of good matches to be recognized as a duplicate:</string>
+    <string name="camera_activity_name">Android Camera API 2</string>
+    <string name="take_picture">Take picture</string>
 </resources>

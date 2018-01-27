@@ -81,8 +81,8 @@ dependencies {
     // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core
     compile 'com.fasterxml.jackson.core:jackson-core:2.8.7'
     // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations
-    compile 'com.fasterxml.jackson.core:jackson-annotations:2.8.7'
     compile 'com.squareup.retrofit2:retrofit:2.2.0'
+    compile 'com.fasterxml.jackson.core:jackson-annotations:2.8.7'
     compile 'com.squareup.retrofit2:converter-jackson:2.2.0'
     compile('com.squareup.retrofit2:converter-simplexml:2.2.0') {
         exclude group: 'xpp3', module: 'xpp3'

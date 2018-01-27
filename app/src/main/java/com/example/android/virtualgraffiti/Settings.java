@@ -15,6 +15,8 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
+import com.example.android.virtualgraffiti.imagecompare.ImageComparison;
+
 public class Settings extends Activity {
 
     @SuppressWarnings("unused")
@@ -57,7 +59,7 @@ public class Settings extends Activity {
                     e.printStackTrace();
                     min_dist = 500;
                 }
-                Intent call = new Intent(Settings.this, MainActivity.class);
+                Intent call = new Intent(Settings.this, ImageComparison.class);
                 call.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
                 call.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
                 call.putExtra("descriptor", descriptor);
@@ -110,7 +112,7 @@ public class Settings extends Activity {
                     min_dist = 80;
                     min_matches=100;
                 }
-                Intent call = new Intent(Settings.this, MainActivity.class);
+                Intent call = new Intent(Settings.this, ImageComparison.class);
                 call.addFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
                 call.putExtra("descriptor", descriptor);
                 call.putExtra("min_dist", min_dist);

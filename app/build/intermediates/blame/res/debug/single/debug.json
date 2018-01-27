@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\d6c171d9412b22161eda2658877ea1a2\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\474b675b7f008389142c87712c75c01d\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\d6c171d9412b22161eda2658877ea1a2\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -116,12 +116,12 @@
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
-        "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
@@ -256,12 +256,12 @@
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\d6c171d9412b22161eda2658877ea1a2\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -660,10 +660,6 @@
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
-        "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\04cb3fc714db2ece24b3c0ecb927b089\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -946,6 +942,10 @@
     {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_android_camera_api.xml.flat",
+        "source": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\src\\main\\res\\layout\\activity_android_camera_api.xml"
     },
     {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -1276,6 +1276,10 @@
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
@@ -1500,16 +1504,16 @@
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_menu.xml.flat",
+        "source": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\src\\main\\res\\menu\\activity_main_menu.xml"
+    },
+    {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_menu.xml.flat",
-        "source": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\src\\main\\res\\menu\\activity_main_menu.xml"
     },
     {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1600,6 +1604,10 @@
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_info.png.flat",
+        "source": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\src\\main\\res\\drawable\\ic_action_info.png"
+    },
+    {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -1620,12 +1628,12 @@
         "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img.jpg.flat",
         "source": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\src\\main\\res\\drawable\\img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Zube\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a303283c06aa4633e3b2d2b4026d0bf1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\Zube\\Documents\\CodeFiles\\VirtualGraffiti\\VirtualGraffiti2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",

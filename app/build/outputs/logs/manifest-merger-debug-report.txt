@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-37:12
 MERGED from [com.android.support:design:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\3afca8d365a94e25f2bd45aa6b73f18b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\dd9bd2b103252ebe84df2fc70f45eef4\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d6c171d9412b22161eda2658877ea1a2\AndroidManifest.xml:17:1-29:12
@@ -32,25 +32,131 @@ MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\
 MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\cde82a5362df707274e198e6840a1c52\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\21f21fa232da836091e77e5226c4feb9\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\33b8e60c8884028be7956703d0e1f1cd\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:3:5-50
 		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:4:5-6:41
+INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:4:5-6:41
+INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:4:5-6:41
+MERGED from [com.android.support:design:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\3afca8d365a94e25f2bd45aa6b73f18b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\3afca8d365a94e25f2bd45aa6b73f18b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\dd9bd2b103252ebe84df2fc70f45eef4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\dd9bd2b103252ebe84df2fc70f45eef4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d6c171d9412b22161eda2658877ea1a2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d6c171d9412b22161eda2658877ea1a2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\5de6376e8c19d4deba052d332942c623\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\5de6376e8c19d4deba052d332942c623\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\29f7b2e0f745b307d83d2e3deeb5e4fe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\29f7b2e0f745b307d83d2e3deeb5e4fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\684fa98b5a3b4a8054a4bb9ee47dc746\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\684fa98b5a3b4a8054a4bb9ee47dc746\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\f8d4d37cc42940e0746bb2ceaa59bc84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\f8d4d37cc42940e0746bb2ceaa59bc84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\563368343df60a5244d1501f1f2deb6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\563368343df60a5244d1501f1f2deb6f\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\c6c1ad05b15e093339e3583e2f71c21f\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\c6c1ad05b15e093339e3583e2f71c21f\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\a303283c06aa4633e3b2d2b4026d0bf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\a303283c06aa4633e3b2d2b4026d0bf1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\1369bd0fe01eb03197855283da82d625\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\1369bd0fe01eb03197855283da82d625\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\e0ee3d98e1d281bbebd3a428f5c33ebe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\e0ee3d98e1d281bbebd3a428f5c33ebe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9d8bd56a75cfe5109db01034ff49a7b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9d8bd56a75cfe5109db01034ff49a7b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\463da19d32a365fbdc4d3c9d6e3c8a24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\463da19d32a365fbdc4d3c9d6e3c8a24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9f07e635e0ea4f31053bbfc373d785dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9f07e635e0ea4f31053bbfc373d785dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\2de5c6a2c08e526d6755aa251bb81398\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\2de5c6a2c08e526d6755aa251bb81398\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\24c3e51c6f837d9cf758859e0cc0f776\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\24c3e51c6f837d9cf758859e0cc0f776\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\6f3742993ab30820999d7229aa99adf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\6f3742993ab30820999d7229aa99adf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\474b675b7f008389142c87712c75c01d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\474b675b7f008389142c87712c75c01d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\f5ecc770f62e78fb06f2b44235dddc63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\f5ecc770f62e78fb06f2b44235dddc63\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\92478955b8ebb59e866f2c2970f4c45f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\92478955b8ebb59e866f2c2970f4c45f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\82edf2188feba99d2fb29f18d21f2ede\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\82edf2188feba99d2fb29f18d21f2ede\AndroidManifest.xml:5:5-7:41
+MERGED from [:openCVLibrary340] C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\openCVLibrary340\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary340] C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\openCVLibrary340\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\856f2c78d1ae871b2874b30e4414a1e9\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\856f2c78d1ae871b2874b30e4414a1e9\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\b05bbf0296f091426cc77b74eccd9e07\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\b05bbf0296f091426cc77b74eccd9e07\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\cde82a5362df707274e198e6840a1c52\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\cde82a5362df707274e198e6840a1c52\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\21f21fa232da836091e77e5226c4feb9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\21f21fa232da836091e77e5226c4feb9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\33b8e60c8884028be7956703d0e1f1cd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\33b8e60c8884028be7956703d0e1f1cd\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:4:5-6:41
+INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:4:5-6:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:6:9-38
+		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:5:9-35
+		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
+uses-permission-sdk-23#android.permission.CAMERA
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:8:29-69
+uses-permission-sdk-23#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:9:5-88
+	android:name
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:9:29-85
+uses-feature#android.hardware.camera2.full
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:10:19-63
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:11:5-94
+	android:required
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:11:68-92
+	android:name
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:11:19-67
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:12:5-84
+	android:required
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:12:58-82
+	android:name
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:13:5-90
+	android:required
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:13:64-88
+	android:name
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:13:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:14:5-100
+	android:required
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:14:74-98
+	android:name
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:14:19-73
 application
-ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:5:5-21:19
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:15:5-33:19
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\dd9bd2b103252ebe84df2fc70f45eef4\AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\dd9bd2b103252ebe84df2fc70f45eef4\AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d6c171d9412b22161eda2658877ea1a2\AndroidManifest.xml:22:5-27:19
@@ -74,131 +180,37 @@ MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Us
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\33b8e60c8884028be7956703d0e1f1cd\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\33b8e60c8884028be7956703d0e1f1cd\AndroidManifest.xml:5:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:18:9-41
 	android:roundIcon
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:19:9-54
 	android:icon
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:11:9-67
-activity#com.example.android.virtualgraffiti.MainActivity
-ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:12:9-20:20
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:21:9-53
+activity#com.example.android.virtualgraffiti.imagecompare.ImageComparison
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:22:9-25:20
 	android:label
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:14:13-45
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:24:13-45
 	android:name
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:23:13-57
+activity#com.example.android.virtualgraffiti.camera.AndroidCameraApi
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:27:13-52
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:28:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:18:27-74
-uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:23:5-64
-	android:name
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:23:22-62
-uses-feature#android.hardware.camera
-ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:25:5-84
-	android:required
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:25:58-82
-	android:name
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:25:19-57
-uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:26:5-94
-	android:required
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:26:68-92
-	android:name
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:26:19-67
-uses-feature#android.hardware.camera.front
-ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:27:5-90
-	android:required
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:27:64-88
-	android:name
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:27:19-63
-uses-feature#android.hardware.camera.front.autofocus
-ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:28:5-100
-	android:required
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:28:74-98
-	android:name
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:28:19-73
-uses-sdk
-INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\3afca8d365a94e25f2bd45aa6b73f18b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\3afca8d365a94e25f2bd45aa6b73f18b\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\dd9bd2b103252ebe84df2fc70f45eef4\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\dd9bd2b103252ebe84df2fc70f45eef4\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d6c171d9412b22161eda2658877ea1a2\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\d6c171d9412b22161eda2658877ea1a2\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\5de6376e8c19d4deba052d332942c623\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\5de6376e8c19d4deba052d332942c623\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\29f7b2e0f745b307d83d2e3deeb5e4fe\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\29f7b2e0f745b307d83d2e3deeb5e4fe\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\684fa98b5a3b4a8054a4bb9ee47dc746\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\684fa98b5a3b4a8054a4bb9ee47dc746\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\f8d4d37cc42940e0746bb2ceaa59bc84\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\f8d4d37cc42940e0746bb2ceaa59bc84\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\563368343df60a5244d1501f1f2deb6f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\563368343df60a5244d1501f1f2deb6f\AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\c6c1ad05b15e093339e3583e2f71c21f\AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\c6c1ad05b15e093339e3583e2f71c21f\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\a303283c06aa4633e3b2d2b4026d0bf1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\a303283c06aa4633e3b2d2b4026d0bf1\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\1369bd0fe01eb03197855283da82d625\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\1369bd0fe01eb03197855283da82d625\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\e0ee3d98e1d281bbebd3a428f5c33ebe\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\e0ee3d98e1d281bbebd3a428f5c33ebe\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9d8bd56a75cfe5109db01034ff49a7b1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9d8bd56a75cfe5109db01034ff49a7b1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\463da19d32a365fbdc4d3c9d6e3c8a24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\463da19d32a365fbdc4d3c9d6e3c8a24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9f07e635e0ea4f31053bbfc373d785dd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9f07e635e0ea4f31053bbfc373d785dd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\2de5c6a2c08e526d6755aa251bb81398\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\2de5c6a2c08e526d6755aa251bb81398\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\24c3e51c6f837d9cf758859e0cc0f776\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\24c3e51c6f837d9cf758859e0cc0f776\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\6f3742993ab30820999d7229aa99adf2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\6f3742993ab30820999d7229aa99adf2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\474b675b7f008389142c87712c75c01d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\474b675b7f008389142c87712c75c01d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\f5ecc770f62e78fb06f2b44235dddc63\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\f5ecc770f62e78fb06f2b44235dddc63\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\92478955b8ebb59e866f2c2970f4c45f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\92478955b8ebb59e866f2c2970f4c45f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\82edf2188feba99d2fb29f18d21f2ede\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\82edf2188feba99d2fb29f18d21f2ede\AndroidManifest.xml:5:5-7:41
-MERGED from [:openCVLibrary340] C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\openCVLibrary340\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:openCVLibrary340] C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\openCVLibrary340\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\856f2c78d1ae871b2874b30e4414a1e9\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\856f2c78d1ae871b2874b30e4414a1e9\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\b05bbf0296f091426cc77b74eccd9e07\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\b05bbf0296f091426cc77b74eccd9e07\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\cde82a5362df707274e198e6840a1c52\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\cde82a5362df707274e198e6840a1c52\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\21f21fa232da836091e77e5226c4feb9\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\21f21fa232da836091e77e5226c4feb9\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\33b8e60c8884028be7956703d0e1f1cd\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\33b8e60c8884028be7956703d0e1f1cd\AndroidManifest.xml:4:5-43
-INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
-	android:targetSdkVersion
-		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\app\src\main\AndroidManifest.xml:30:27-74
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\dd9bd2b103252ebe84df2fc70f45eef4\AndroidManifest.xml:23:5-79
 	android:name
