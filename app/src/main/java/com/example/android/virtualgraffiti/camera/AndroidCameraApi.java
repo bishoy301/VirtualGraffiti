@@ -1,6 +1,7 @@
 package com.example.android.virtualgraffiti.camera;
 
 import android.Manifest;
+import android.app.Activity;
 import android.content.Context;
 import android.content.pm.PackageManager;
 import android.graphics.ImageFormat;
@@ -43,6 +44,7 @@ import java.nio.ByteBuffer;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.concurrent.Semaphore;
 
 /**
  * Created by Zube on 1/27/2018.
@@ -60,7 +62,8 @@ public class AndroidCameraApi extends AppCompatActivity {
         ORIENTATIONS.append(Surface.ROTATION_270, 180);
     }
     private String cameraId;
-    protected CameraDevice cameraDevice;
+    private Semaphore mCameraOpenCloseLock = new Semaphore(1);
+    protected CameraDevice mCameraDevice;
     protected CameraCaptureSession cameraCaptureSessions;
     protected CaptureRequest captureRequest;
     protected CaptureRequest.Builder captureRequestBuilder;
@@ -107,20 +110,24 @@ public class AndroidCameraApi extends AppCompatActivity {
     };
     private final CameraDevice.StateCallback stateCallback = new CameraDevice.StateCallback() {
         @Override
-        public void onOpened(CameraDevice camera) {
-            //This is called when the camera is open
+        public void onOpened(CameraDevice cameraDevice) {
+            //This is called when the cameraDevice is open
+            mCameraOpenCloseLock.release();
             Log.e(TAG, "onOpened");
-            cameraDevice = camera;
-            createCameraPreview();
+            mCameraDevice = cameraDevice;
+            createCameraPreviewSession();
         }
         @Override
-        public void onDisconnected(CameraDevice camera) {
+        public void onDisconnected(CameraDevice cameraDevice) {
+            mCameraOpenCloseLock.release();
             cameraDevice.close();
+            mCameraDevice = null;
         }
         @Override
-        public void onError(CameraDevice camera, int error) {
+        public void onError(CameraDevice cameraDevice, int error) {
+            mCameraOpenCloseLock.release();
             cameraDevice.close();
-            cameraDevice = null;
+            mCameraDevice = null;
         }
     };
     final CameraCaptureSession.CaptureCallback captureCallbackListener = new CameraCaptureSession.CaptureCallback() {
@@ -128,7 +135,7 @@ public class AndroidCameraApi extends AppCompatActivity {
         public void onCaptureCompleted(CameraCaptureSession session, CaptureRequest request, TotalCaptureResult result) {
             super.onCaptureCompleted(session, request, result);
             Toast.makeText(AndroidCameraApi.this, "Saved:" + file, Toast.LENGTH_SHORT).show();
-            createCameraPreview();
+            createCameraPreviewSession();
         }
     };
     protected void startBackgroundThread() {
@@ -213,7 +220,7 @@ public class AndroidCameraApi extends AppCompatActivity {
                 public void onCaptureCompleted(CameraCaptureSession session, CaptureRequest request, TotalCaptureResult result) {
                     super.onCaptureCompleted(session, request, result);
                     Toast.makeText(AndroidCameraApi.this, "Saved:" + file, Toast.LENGTH_SHORT).show();
-                    createCameraPreview();
+                    createCameraPreviewSession();
                 }
             };
             cameraDevice.createCaptureSession(outputSurfaces, new CameraCaptureSession.StateCallback() {
@@ -233,7 +240,7 @@ public class AndroidCameraApi extends AppCompatActivity {
             e.printStackTrace();
         }
     }
-    protected void createCameraPreview() {
+    protected void createCameraPreviewSession() {
         try {
             SurfaceTexture texture = textureView.getSurfaceTexture();
             assert texture != null;
