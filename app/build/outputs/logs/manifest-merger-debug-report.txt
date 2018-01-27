@@ -18,6 +18,7 @@ MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Zube\.gradle\c
 MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\c6c1ad05b15e093339e3583e2f71c21f\AndroidManifest.xml:2:1-7:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\82edf2188feba99d2fb29f18d21f2ede\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\1369bd0fe01eb03197855283da82d625\AndroidManifest.xml:2:1-13:12
+MERGED from [:openCVLibrary340] C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\openCVLibrary340\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8e70aea7d127d45037374e88a437abc1\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\10fa7a5ac1c97d1627f03983dff072f4\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\e0ee3d98e1d281bbebd3a428f5c33ebe\AndroidManifest.xml:17:1-22:12
@@ -152,6 +153,8 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zu
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\82edf2188feba99d2fb29f18d21f2ede\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\1369bd0fe01eb03197855283da82d625\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\1369bd0fe01eb03197855283da82d625\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary340] C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\openCVLibrary340\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary340] C:\Users\Zube\Documents\CodeFiles\VirtualGraffiti\VirtualGraffiti2\openCVLibrary340\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8e70aea7d127d45037374e88a437abc1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8e70aea7d127d45037374e88a437abc1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Zube\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\10fa7a5ac1c97d1627f03983dff072f4\AndroidManifest.xml:20:5-44
