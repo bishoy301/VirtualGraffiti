@@ -80,16 +80,16 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4732fa0b5b5993a78e08de76626c3618\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -102,6 +102,10 @@
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-xhdpi-v4\\quantum_ic_settings_white_24.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
@@ -204,6 +208,10 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_settings_button.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout-land\\settings_button.xml"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -238,6 +246,10 @@
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.4.0.aar\\213842661ac562012fbb46cd93c69a42\\res\\layout\\__arcore_education.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
@@ -312,12 +324,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -344,12 +356,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
@@ -358,6 +370,14 @@
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_back_button.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout-land\\back_button.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_rippleable.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-v21\\rippleable.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -392,6 +412,10 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-xxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -410,6 +434,14 @@
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-mdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
@@ -456,16 +488,24 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-xhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_viro.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\virocore-release-v_1_11_0.aar\\1de8698f42dc5c260355c985cfa141bd\\res\\layout\\activity_viro.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
@@ -512,12 +552,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\ab9b6c2ca0c132a678732b3edba2bf25\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\ab9b6c2ca0c132a678732b3edba2bf25\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
@@ -552,6 +592,10 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_layer.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout\\ui_layer.xml"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\color-v23\\abc_tint_edittext.xml"
     },
@@ -564,12 +608,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
@@ -578,6 +622,10 @@
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
@@ -632,12 +680,16 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_transition_view.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout\\transition_view.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -666,6 +718,10 @@
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_back_button.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout\\back_button.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -776,6 +832,10 @@
         "source": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-xxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
@@ -828,6 +888,10 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -838,6 +902,10 @@
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout-ldrtl-land-v17\\settings_button.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -856,12 +924,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
@@ -936,12 +1004,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -1004,12 +1072,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1020,8 +1088,16 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout-ldrtl-v17\\settings_button.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1052,16 +1128,16 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\drawable\\design_fab_background.xml"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4732fa0b5b5993a78e08de76626c3618\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -1120,12 +1196,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1148,12 +1224,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
@@ -1188,12 +1264,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
@@ -1248,56 +1324,60 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\ab9b6c2ca0c132a678732b3edba2bf25\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1368,6 +1448,10 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-mdpi-v4\\transition.png"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -1380,12 +1464,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4732fa0b5b5993a78e08de76626c3618\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1414,6 +1498,10 @@
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_button.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout\\settings_button.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
@@ -1460,52 +1548,52 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1548,16 +1636,20 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4732fa0b5b5993a78e08de76626c3618\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17_back_button.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout-ldrtl-land-v17\\back_button.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1608,12 +1700,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4732fa0b5b5993a78e08de76626c3618\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1624,12 +1716,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1654,6 +1746,10 @@
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout\\ui_layer_with_portrait_support.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1700,12 +1796,12 @@
         "source": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\src\\main\\res\\menu\\activity_main_menu.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4732fa0b5b5993a78e08de76626c3618\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -1744,20 +1840,24 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout-land\\ui_layer_with_portrait_support.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
@@ -1780,12 +1880,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
@@ -1860,12 +1960,12 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
-        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_android_camera_api.xml.flat",
-        "source": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\src\\main\\res\\layout\\activity_android_camera_api.xml"
-    },
-    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_android_camera_api.xml.flat",
+        "source": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\src\\main\\res\\layout\\activity_android_camera_api.xml"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1888,6 +1988,10 @@
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\349ca5100c0cf72963f5a03779f08d82\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_back_button.xml.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\layout-ldrtl-v17\\back_button.xml"
+    },
+    {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -1902,6 +2006,10 @@
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.130.0.aar\\bdde16a1f069759985336e01dcb9c353\\res\\drawable-hdpi-v4\\transition.png"
     },
     {
         "merged": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
