@@ -1,7 +1,0 @@
-/Users/bishoyboktor/Desktop/VirtualGraffiti/VirtualGraffiti/target/debug/deps/log-edb2374cf79ab666.rmeta: /Users/bishoyboktor/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.6/src/lib.rs /Users/bishoyboktor/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.6/src/macros.rs /Users/bishoyboktor/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.6/src/serde.rs
-
-/Users/bishoyboktor/Desktop/VirtualGraffiti/VirtualGraffiti/target/debug/deps/log-edb2374cf79ab666.d: /Users/bishoyboktor/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.6/src/lib.rs /Users/bishoyboktor/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.6/src/macros.rs /Users/bishoyboktor/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.6/src/serde.rs
-
-/Users/bishoyboktor/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.6/src/lib.rs:
-/Users/bishoyboktor/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.6/src/macros.rs:
-/Users/bishoyboktor/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.6/src/serde.rs:

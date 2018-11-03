@@ -1,0 +1,5 @@
+CREATE TABLE images (
+  id SERIAL PRIMARY KEY,
+  gps VARCHAR NOT NULL,
+  image TEXT NOT NULL
+)
