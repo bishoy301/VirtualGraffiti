@@ -12,6 +12,13 @@
         android:layout_above="@+id/btn_takepicture"
         android:layout_alignParentTop="true"/>
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText1"
+        android:visibility="invisible"
+        android:maxLength="15">
+    </EditText>
     <Button
         android:id="@+id/btn_takepicture"
         android:layout_width="wrap_content"

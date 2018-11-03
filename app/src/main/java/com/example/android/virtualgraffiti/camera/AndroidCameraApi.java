@@ -3,6 +3,7 @@ package com.example.android.virtualgraffiti.camera;
 import android.Manifest;
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.app.Application;
 import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -34,6 +35,7 @@ import android.view.Surface;
 import android.view.TextureView;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.Toast;
 
 import com.example.android.virtualgraffiti.R;
@@ -225,7 +227,7 @@ public class AndroidCameraApi extends AppCompatActivity {
                     super.onCaptureCompleted(session, request, result);
                     Toast.makeText(AndroidCameraApi.this, "Saved:" + file, Toast.LENGTH_SHORT).show();
                     //Add Dialog Box here
-
+                    onCreateDialog();
                     createCameraPreviewSession();
                 }
             };
@@ -275,7 +277,7 @@ public class AndroidCameraApi extends AppCompatActivity {
         }
     }
 
-    public void onCreateDialog(View view) {
+    public void onCreateDialog() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         String[] choices = {"Load Caption", "Load Photo"};
         builder.setItems(choices, new DialogInterface.OnClickListener() {
@@ -290,6 +292,13 @@ public class AndroidCameraApi extends AppCompatActivity {
         });
         AlertDialog dialog = builder.create();
         dialog.show();
+    }
+
+    public void createText(View view) {
+        EditText usrText = (EditText) findViewById(R.id.editText1);
+        usrText.setVisibility(View.VISIBLE);
+        String input = usrText.getText().toString();
+
     }
     private void openCamera() {
         CameraManager manager = (CameraManager) getSystemService(Context.CAMERA_SERVICE);
