@@ -275,15 +275,21 @@ public class AndroidCameraApi extends AppCompatActivity {
         }
     }
 
-    protected Dialog onCreateDialog(Bundle savedInstanceState) {
+    public void onCreateDialog(View view) {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setItems("Load Caption", "Load Photo", new DialogInterface.OnClickListener() {
+        String[] choices = {"Load Caption", "Load Photo"};
+        builder.setItems(choices, new DialogInterface.OnClickListener() {
             @Override
-            public void onClick(DialogInterface dialogInterface, int i) {
-                dialogInterface.dismiss();
+            public void onClick(DialogInterface dialog, int which) {
+                switch(which) {
+                    case 0:
+
+                    case 1:
+                }
             }
         });
-        return builder.create();
+        AlertDialog dialog = builder.create();
+        dialog.show();
     }
     private void openCamera() {
         CameraManager manager = (CameraManager) getSystemService(Context.CAMERA_SERVICE);
