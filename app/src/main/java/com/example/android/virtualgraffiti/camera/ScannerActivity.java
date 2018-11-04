@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Environment;
 import android.util.Log;
@@ -58,12 +59,6 @@ public class ScannerActivity extends Activity implements ARScene.Listener {
             usrCaption = intent.getExtras().getString("keyName");
             imageFile = Environment.getExternalStorageDirectory();
             imageTarget = BitmapFactory.decodeFile(imageFile + "/pic.jpg");
-            Text.TextBuilder textBuilder = new Text.TextBuilder();
-            textBuilder.viroContext(viroContext);
-            textBuilder.textString(usrCaption);
-            textBuilder.height(0.2f);
-            textBuilder.width((0.2f));
-            usrText = textBuilder.build();
             isPhoto = false;
         }
         else {
@@ -74,12 +69,14 @@ public class ScannerActivity extends Activity implements ARScene.Listener {
         }
         mTargetedNodesMap = new HashMap<String, Pair<ARImageTarget, Node>>();
         mViroView = new ViroViewARCore(this, new ViroViewARCore.StartupListener() {
+
+
             @Override
             public void onSuccess() {
                 if (isPhoto) {
                     onRenderCreate(imageTarget, imageNode);
                 } else {
-                    onRenderCreate(imageTarget, usrText);
+                    onRenderCreate(imageTarget, usrCaption);
                 }
             }
 
@@ -123,7 +120,7 @@ public class ScannerActivity extends Activity implements ARScene.Listener {
     }
 
 
-    private void onRenderCreate(Bitmap targetImage, Text text) {
+    private void onRenderCreate(Bitmap targetImage, String text) {
         // Create the base ARScene
         mScene = new ARScene();
         mScene.setListener(this);
@@ -134,7 +131,17 @@ public class ScannerActivity extends Activity implements ARScene.Listener {
         mScene.addARImageTarget(userImageTarget);
 
         Node userNode = new Node();
-        userNode.setGeometry(text);
+        usrText = new Text.TextBuilder().viroContext(mViroView.getViroContext()).
+                textString("Hello").
+                fontFamilyName("Roboto").fontSize(40).
+                color(Color.WHITE).
+                width(0.5f).height(0.5f).
+                horizontalAlignment(Text.HorizontalAlignment.CENTER).
+                verticalAlignment(Text.VerticalAlignment.CENTER).lineBreakMode(Text.LineBreakMode.NONE).
+                clipMode(Text.ClipMode.CLIP_TO_BOUNDS).
+                maxLines(1).build();
+
+        userNode.setGeometry(usrText);
         userNode.setVisible(false);
         mScene.getRootNode().addChildNode(userNode);
         linkTargetWithNode(userImageTarget, userNode);

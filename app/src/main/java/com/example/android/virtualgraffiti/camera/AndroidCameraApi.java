@@ -76,6 +76,7 @@ public class AndroidCameraApi extends AppCompatActivity {
     private Bitmap bitmap;
     private ImageView imageView;
     private String cameraId;
+    private String input;
     private Semaphore mCameraOpenCloseLock = new Semaphore(1);
     protected CameraDevice mCameraDevice;
     protected CameraCaptureSession cameraCaptureSessions;
@@ -91,6 +92,7 @@ public class AndroidCameraApi extends AppCompatActivity {
     public static  InputStream mStream;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        setTheme(R.style.AppTheme);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_android_camera_api);
         textureView = (TextureView) findViewById(R.id.texture);
@@ -288,14 +290,12 @@ public class AndroidCameraApi extends AppCompatActivity {
 
     public void onCreateDialog() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        String[] choices = {"Load Caption", "Load Photo"};
+        String[] choices = {"Load Photo"};
         builder.setItems(choices, new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 switch(which) {
-                    case 0: createText();
-                        break;
-                    case 1:
+                    case 0:
                         pickImage();
                         break;
                 }
@@ -305,14 +305,23 @@ public class AndroidCameraApi extends AppCompatActivity {
         dialog.show();
     }
 
-    public void createText() {
-        EditText usrText = findViewById(R.id.editText1);
-        usrText.setVisibility(View.VISIBLE);
-        String input = usrText.getText().toString();
+    /*public void createText() {
+        Handler mainHandler = new Handler(getMainLooper());
+        Runnable myRunnable = new Runnable() {
+            @Override
+            public void run() {
+                EditText usrTextBox = findViewById(R.id.editText1);
+                usrTextBox.setVisibility(View.VISIBLE);
+                input = usrTextBox.getText().toString();
+
+            }
+        };
+        mainHandler.post(myRunnable);
         Intent intent = new Intent(this, ScannerActivity.class);
         intent.putExtra("keyName", input);
         startActivity(intent);
     }
+    */
 
     public void pickImage() {
         Intent intent = new Intent();
