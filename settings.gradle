@@ -1,1 +1,3 @@
 include ':app'
+include ':openCVLibrary340'
+include ':arcore_client', ':gvr_common', ':viro_core'
