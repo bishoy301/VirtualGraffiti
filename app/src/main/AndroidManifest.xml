@@ -36,6 +36,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".camera.ScannerActivity"
+            android:label="VirtualGraffiti"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait">
+        </activity>
+        <meta-data android:name="com.google.ar.core" android:value="optional" />
     </application>
 
 

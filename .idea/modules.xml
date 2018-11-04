@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/arcore_client/arcore_client.iml" filepath="$PROJECT_DIR$/arcore_client/arcore_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/gvr_common/gvr_common.iml" filepath="$PROJECT_DIR$/gvr_common/gvr_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oldVirtualGraffiti.iml" filepath="$PROJECT_DIR$/oldVirtualGraffiti.iml" />
       <module fileurl="file://$PROJECT_DIR$/openCVLibrary340/openCVLibrary340.iml" filepath="$PROJECT_DIR$/openCVLibrary340/openCVLibrary340.iml" />
       <module fileurl="file://$PROJECT_DIR$/viro_core/viro_core.iml" filepath="$PROJECT_DIR$/viro_core/viro_core.iml" />
     </modules>

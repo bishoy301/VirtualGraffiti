@@ -1,61 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bishoyboktor/Desktop/VirtualGraffiti/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+            "outputFile": "D:\\Users\\zmolo\\oldVirtualGraffiti\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
             "map": [
                 {
-                    "source": "/Users/bishoyboktor/.gradle/caches/transforms-1/files-1.1/core-1.4.0.aar/99defba2dd16ea258ea5e4a546c58df5/res/values-ky/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "190,234,284,390,499",
-                        "endColumns": "43,49,105,108,63",
-                        "endOffsets": "233,283,389,498,562"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "105,153,207,317,430",
-                        "endColumns": "47,53,109,112,67",
-                        "endOffsets": "148,202,312,425,493"
-                    }
-                },
-                {
-                    "source": "/Users/bishoyboktor/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/ef7ea1ae2060713755cbd04f44415d44/res/values-ky/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "220",
-                        "endOffsets": "503"
-                    },
-                    "to": {
-                        "startLines": "32",
-                        "startColumns": "4",
-                        "startOffsets": "3400",
-                        "endColumns": "220",
-                        "endOffsets": "3616"
-                    }
-                },
-                {
-                    "source": "/Users/bishoyboktor/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/13ca663eefd11101c388d2db7acba506/res/values-ky/values-ky.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "43",
-                        "startColumns": "4",
-                        "startOffsets": "5036",
-                        "endColumns": "100",
-                        "endOffsets": "5132"
-                    }
-                },
-                {
-                    "source": "/Users/bishoyboktor/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/4e0575c9b508920b8a2748f7940cc2da/res/values-ky/values.xml",
+                    "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\3b5f5195705dae8ddab369ee35e691eb\\res\\values-ky\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -72,7 +21,41 @@
                     }
                 },
                 {
-                    "source": "/Users/bishoyboktor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/87a90ac66230c0592e18b251dc8f9072/res/values-ky/values-ky.xml",
+                    "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\4732fa0b5b5993a78e08de76626c3618\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "43",
+                        "startColumns": "4",
+                        "startOffsets": "5036",
+                        "endColumns": "100",
+                        "endOffsets": "5132"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.4.0.aar\\213842661ac562012fbb46cd93c69a42\\res\\values-ky\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,234,284,390,499",
+                        "endColumns": "43,49,105,108,63",
+                        "endOffsets": "233,283,389,498,562"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,153,207,317,430",
+                        "endColumns": "47,53,109,112,67",
+                        "endOffsets": "148,202,312,425,493"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5d93f9a216a3004b5240e952a26c0c27\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -86,6 +69,23 @@
                         "startOffsets": "498,602,697,816,900,1007,1124,1202,1281,1362,1472,1579,1677,1783,1890,1991,2152,4955",
                         "endColumns": "103,94,118,83,106,116,77,78,80,109,106,97,105,106,100,160,102,80",
                         "endOffsets": "597,692,811,895,1002,1119,1197,1276,1357,1467,1574,1672,1778,1885,1986,2147,2250,5031"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zmolo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\458c1d7d710ac1966c7f81a3df5971e6\\res\\values-ky\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "220",
+                        "endOffsets": "503"
+                    },
+                    "to": {
+                        "startLines": "32",
+                        "startColumns": "4",
+                        "startOffsets": "3400",
+                        "endColumns": "220",
+                        "endOffsets": "3616"
                     }
                 }
             ]

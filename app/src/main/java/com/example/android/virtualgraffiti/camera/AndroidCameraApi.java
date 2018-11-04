@@ -88,6 +88,7 @@ public class AndroidCameraApi extends AppCompatActivity {
     private boolean mFlashSupported;
     private Handler mBackgroundHandler;
     private HandlerThread mBackgroundThread;
+    public static  InputStream mStream;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -292,7 +293,7 @@ public class AndroidCameraApi extends AppCompatActivity {
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 switch(which) {
-                    case 0:
+                    case 0: createText();
                         break;
                     case 1:
                         pickImage();
@@ -304,11 +305,13 @@ public class AndroidCameraApi extends AppCompatActivity {
         dialog.show();
     }
 
-    public void createText(View view) {
-        EditText usrText = (EditText) findViewById(R.id.editText1);
+    public void createText() {
+        EditText usrText = findViewById(R.id.editText1);
         usrText.setVisibility(View.VISIBLE);
         String input = usrText.getText().toString();
-
+        Intent intent = new Intent(this, ScannerActivity.class);
+        intent.putExtra("keyName", input);
+        startActivity(intent);
     }
 
     public void pickImage() {
@@ -326,11 +329,20 @@ public class AndroidCameraApi extends AppCompatActivity {
                 if (bitmap != null) {
                     bitmap.recycle();
                 }
-                InputStream stream = getContentResolver().openInputStream(data.getData());
+                mStream = getContentResolver().openInputStream(data.getData());
+                bitmap = BitmapFactory.decodeStream(mStream);
+                mStream.close();
+
                 final File file = new File(Environment.getExternalStorageDirectory()+"/photo_node.jpg");
-                bitmap = BitmapFactory.decodeStream(stream);
-                stream.close();
-                imageView.setImageBitmap(bitmap);
+                if(file.exists()) file.delete();
+                try {
+                    OutputStream out = new FileOutputStream(file);
+                    bitmap.compress(Bitmap.CompressFormat.JPEG, 100, out);
+                    out.flush();
+                    out.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
 
             } catch (FileNotFoundException e) {
                 e.printStackTrace();
@@ -339,6 +351,9 @@ public class AndroidCameraApi extends AppCompatActivity {
             }
             super.onActivityResult(requestCode, resultCode, data);
         }
+
+        Intent intent = new Intent(AndroidCameraApi.this, ScannerActivity.class);
+        startActivity(intent);
     }
     private void openCamera() {
         CameraManager manager = (CameraManager) getSystemService(Context.CAMERA_SERVICE);
@@ -359,6 +374,10 @@ public class AndroidCameraApi extends AppCompatActivity {
             e.printStackTrace();
         }
         Log.e(TAG, "openCamera X");
+    }
+
+    public static InputStream getInStream() {
+        return mStream;
     }
     protected void updatePreview() {
         if(null == mCameraDevice) {
