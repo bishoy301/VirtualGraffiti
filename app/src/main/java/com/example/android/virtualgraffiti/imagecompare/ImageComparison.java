@@ -101,7 +101,7 @@ public class ImageComparison extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         Log.i(TAG, "called onCreate");
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.splash_);
         iv1 = (ImageView) ImageComparison.this.findViewById(R.id.img1);
         iv2 = (ImageView) ImageComparison.this.findViewById(R.id.img2);
         start = (Button) ImageComparison.this.findViewById(R.id.button1);
